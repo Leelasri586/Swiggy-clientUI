@@ -1,8 +1,8 @@
 import React from 'react'
-import LandingPage from './swiggy/pages/LandingPage'
+import LandingPage from './swiggy_UI/pages/LandingPage'
 import './App.css'
 import { Routes, Route } from 'react-router-dom'
-import ProductMenu from './swiggy/components/ProductMenu'
+import ProductMenu from './swiggy_UI/components/ProductMenu'
 
 const App = () => {
   return (
